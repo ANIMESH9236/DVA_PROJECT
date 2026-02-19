@@ -167,7 +167,7 @@ This project demonstrates how structured analytics and dashboard-driven segmenta
 
 | Team Member | Dataset | Cleaning | Analysis | Dashboard | Report | PPT | Role |
 |------------|--------|----------|---------|-----------|--------|-----|------|
-| Shourya | ✓ | ✓ | ✓ | ✓ | ✓ | | Project Lead |
+| Shourya | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | Project Lead |
 | Animesh | | ✓ | ✓ | | ✓ | | Analysis Lead |
 | Punit | | ✓ | | ✓ | ✓ | | Dashboard Lead |
 | Rachit | ✓ | | ✓ | | | ✓ | Data & Quality |
