@@ -172,7 +172,7 @@ This project demonstrates how structured analytics and dashboard-driven segmenta
 | Punit | | ✓ | | ✓ | ✓ | | Dashboard Lead |
 | Rachit | ✓ | | ✓ | | | ✓ | Data & Quality |
 | Prakhar | ✓ | | | | ✓ | ✓ | Strategy & PPT |
-| Dev | | | | | | | Contributor |
+| Dev | | ✓ | | | | ✓ | Contributor |
 
 ---
 
